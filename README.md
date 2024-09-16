@@ -1,12 +1,7 @@
-- 👋 Meu nome é Guilherme Mauricio
-- 👀 Estou interessado em: ( ͡° ͜ʖ ͡°)
-- 🌱 Estou aprendendo Ciência da Computação 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-skazzi47/skazzi47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-👋 Meu nome é Guilherme Mauricio
+👀 Estou interessado em: ( ͡° ͜ʖ ͡°)
+🌱 Estou aprendendo: Programação Ciência da Computação
+💞️ Estou procurando colaborar com:
+📫 Como me encontrar:
+😄 Pronomes: 
+⚡ Fatos Engraçados:
